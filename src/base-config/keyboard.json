@@ -52,6 +52,9 @@
     "edit.cut": [
         "Ctrl-X"
     ],
+    "edit.cut1": [
+        "Ctrl-r"
+    ],
     "edit.copy": [
         "Ctrl-C"
     ],
